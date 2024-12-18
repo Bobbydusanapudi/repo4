@@ -2,3 +2,4 @@ python
 testing
 python
 VMware
+manual automation
