@@ -1,4 +1,3 @@
-
 list1 = []
 for i in range(2,100):
     count = 0
