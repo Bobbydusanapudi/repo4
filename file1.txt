@@ -2,5 +2,8 @@ python
 testing
 python
 VMware
+<<<<<<< HEAD
 manual automation
 add another line
+=======
+>>>>>>> parent of 42403f6 (add another line)
